@@ -45,7 +45,7 @@ function App() {
             <div id="contact">
                <div>
                   <h1>Lets work together...</h1>
-                  <h3>How do you take coffee?</h3>
+                  <h3>My contact information</h3>
                </div>
                <div class="social">
                   <a href="https://www.linkedin.com/in/carlos-di-nobile-2a641b238/" class="down" target="_blank">
