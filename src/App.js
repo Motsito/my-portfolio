@@ -39,6 +39,10 @@ function App() {
                      <img src="https://cdn.discordapp.com/attachments/1055571611039830081/1080546760558116904/image.png"/>
                      <p>Calendar</p>
                   </a>
+                  <a href="https://motsito.github.io/color-gradient/" target="_blank" class="project">
+                     <img src="https://cdn.discordapp.com/attachments/1055571611039830081/1083561408727371856/image.png"/>
+                     <p>Color-Gradient</p>
+                  </a>
                </div>
          </section>
          <section>
